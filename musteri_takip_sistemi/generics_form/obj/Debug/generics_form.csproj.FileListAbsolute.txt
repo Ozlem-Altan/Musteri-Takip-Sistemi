@@ -1,0 +1,13 @@
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\bin\Debug\generics_form.exe.config
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\bin\Debug\generics_form.exe
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\bin\Debug\generics_form.pdb
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\obj\Debug\generics_form.csproj.AssemblyReference.cache
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\obj\Debug\generics_form.Form1.resources
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\obj\Debug\generics_form.Form2.resources
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\obj\Debug\generics_form.Properties.Resources.resources
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\obj\Debug\generics_form.csproj.GenerateResource.cache
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\obj\Debug\generics_form.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\obj\Debug\generics_form.exe
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\obj\Debug\generics_form.pdb
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\obj\Debug\generics_form.Form3.resources
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\generics_form\generics_form\obj\Debug\generics_form.Form4.resources
